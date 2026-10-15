@@ -92,3 +92,4 @@ if (num2 != 0)
     Console.WriteLine($"Частное: {num1 / num2}");
 else
     Console.WriteLine("Деление на ноль невозможно!");
+    
